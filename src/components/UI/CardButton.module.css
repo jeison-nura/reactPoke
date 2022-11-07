@@ -1,0 +1,17 @@
+.card {
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  background-color: white;
+  border: none;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+  display: flex;
+}
+
+.card:hover,
+.card:active {
+  background-color: #696969;
+}
